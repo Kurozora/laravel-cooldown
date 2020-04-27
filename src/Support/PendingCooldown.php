@@ -91,6 +91,29 @@ class PendingCooldown
     }
 
     /**
+     * Checks whether the cooldown period hasn't passed yet.
+     *
+     * @return bool
+     */
+    public function notPassed()
+    {
+        $cooldown = $this->findCooldownWithName($this->name);
+
+        if(!$cooldown)
+            return false;
+
+        if(now() < $cooldown->expires_at)
+            return true;
+
+        try {
+            $cooldown->delete();
+        }
+        catch(Exception $e) { }
+
+        return false;
+    }
+
+    /**
      * Returns the datetime at which the cooldown expires.
      *
      * @return Carbon|null
