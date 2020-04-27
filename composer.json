@@ -1,0 +1,48 @@
+{
+  "name": "kurozora/laravel-cooldown",
+  "description": "Easily implement global or model-specific cooldowns into your Laravel app.",
+  "keywords": [
+    "laravel-cooldown"
+  ],
+  "homepage": "https://github.com/Kurozora/laravel-cooldown",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "musa11971",
+      "email": "mussesemou99@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.3"
+  },
+  "require-dev": {
+    "orchestra/testbench": "^4.0",
+    "phpunit/phpunit": "^8.2",
+    "symfony/var-dumper": "^4.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Kurozora\\Cooldown\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Kurozora\\Cooldown\\Tests\\": "tests"
+    }
+  },
+  "scripts": {
+    "test": "vendor/bin/phpunit",
+    "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Kurozora\\Cooldown\\CooldownServiceProvider"
+      ]
+    }
+  }
+}
