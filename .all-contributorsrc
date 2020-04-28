@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "musa11971",
+      "name": "Musa",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/21341801?v=4",
+      "profile": "http://musa11971.me",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "laravel-cooldown",
+  "projectOwner": "Kurozora",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
