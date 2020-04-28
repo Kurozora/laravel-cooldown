@@ -1,7 +1,4 @@
 <p align="center"><img src=".github/icon.png" width="150"></p>
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <p align="center">
 <a href="https://packagist.org/packages/kurozora/laravel-cooldown"><img src="https://img.shields.io/packagist/v/kurozora/laravel-cooldown.svg?style=flat-square" alt="Latest version on packagist"></a>
@@ -136,17 +133,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 If you discover any security related issues, please email kurozoraapp@gmail.com instead of using the issue tracker.
 
-## Credits
-
-Credits go to [musa11971](https://github.com/musa11971) for creating and maintaining the package.  
-
-Special thanks  
-- .. to [all contributors](../../contributors) for contributing to the project.
-
-## License
-
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -165,3 +151,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
