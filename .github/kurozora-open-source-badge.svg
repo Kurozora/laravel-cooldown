@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="832px" height="106px" viewBox="0 0 832 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Kurozora Open Source</title>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#BBBBBB" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-10.3%" y="-10.0%" width="120.5%" height="120.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.062745098   0 0 0 0 0.062745098   0 0 0 0 0.062745098  0 0 0 0.3 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="99.786212%" x2="50%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#FCFCFC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="1.29026817%" y1="0%" x2="98.7097318%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#FF9300" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-5" font-family="Verdana" font-size="58" font-weight="normal" fill="#FFFFFF">
+            <tspan x="93" y="63">Kurozora</tspan>
+        </text>
+        <filter x="-1.0%" y="-3.6%" width="101.9%" height="114.3%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.00392156863   0 0 0 0 0.00392156863   0 0 0 0 0.00392156863  0 0 0 0.3 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-7" font-family="Verdana" font-size="58" font-weight="normal" fill="#FFFFFF">
+            <tspan x="0" y="58">Open Source</tspan>
+        </text>
+        <filter x="-0.7%" y="-3.6%" width="101.3%" height="114.3%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.00392156863   0 0 0 0 0.00392156863   0 0 0 0 0.00392156863  0 0 0 0.3 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Promotional" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Kurozora-Open-Source" transform="translate(-0.500000, 0.000000)">
+            <path d="M16.5,0 L402.5,0 L402.5,0 L402.5,106 L16.5,106 C7.663444,106 0.5,98.836556 0.5,90 L0.5,16 C0.5,7.163444 7.663444,1.623249e-15 16.5,0 Z" id="Rectangle" fill="#555555" fill-rule="nonzero"></path>
+            <path d="M402.5,0 L816.5,0 C825.336556,-1.623249e-15 832.5,7.163444 832.5,16 L832.5,90 C832.5,98.836556 825.336556,106 816.5,106 L402.5,106 L402.5,106 L402.5,0 Z" id="Rectangle" fill="#FF9300" fill-rule="nonzero"></path>
+            <rect id="Rectangle" fill="url(#linearGradient-1)" fill-rule="nonzero" x="0.5" y="0" width="832" height="106" rx="16"></rect>
+            <g id="Left" transform="translate(26.500000, 11.000000)">
+                <g id="Logo" filter="url(#filter-2)" fill-rule="nonzero">
+                    <path d="M6.5,47.4999821 C6.49095877,55.5662706 9.90895038,63.2565956 15.9022648,68.6546081 C9.78022008,62.4475755 9.50907992,52.5596884 15.2817673,46.026424 C21.0544546,39.4931596 30.8996438,38.5455744 37.8122381,43.8578988 C44.7248325,49.1702232 46.3442374,58.9283419 41.5182061,66.1891108 C36.6921747,73.4498798 27.0687575,75.7338057 19.4952547,71.4158186 C24.1083481,74.415902 29.4946593,76.0086976 34.9973284,76 C50.7406504,76 63.5,63.2404907 63.5,47.4999821 C63.5,31.7594735 50.7406504,19 34.9973284,19 C19.2593676,19 6.5,31.7605458 6.5,47.4999821 Z" id="Shape" fill-opacity="0.85" fill="url(#linearGradient-3)"></path>
+                    <path d="M1.5,41.4994631 C1.5,44.1932433 1.77689644,46.8796995 2.32771194,49.5150395 C2.19114106,48.2617103 2.12250368,47.0017368 2.1221089,45.7407929 C2.1221089,26.811577 17.2689063,11.4654795 35.952288,11.4654795 C54.6356698,11.4654795 69.7824672,26.8147983 69.7824672,45.7407929 C69.7824672,64.0246824 55.6509673,78.963827 37.8514667,79.9613448 C38.3983284,79.9849674 38.9473097,80 39.5005303,80 C60.4847584,80 77.5,62.763021 77.5,41.4994631 C77.5,20.2359052 60.486878,3 39.5005303,3 C18.5163021,3 1.5,20.236979 1.5,41.4994631 Z" id="Shape" fill="url(#linearGradient-4)"></path>
+                    <path d="M0.5,23 C4.1428277,11.6259239 14.3602638,3.51012866 25.5,0 C12.4033388,0 0.5,8.55652888 0.5,23 Z" id="Shape" fill="#F9B74C"></path>
+                </g>
+                <g id="Kurozora" fill="#FFFFFF" fill-opacity="1">
+                    <use filter="url(#filter-6)" xlink:href="#text-5"></use>
+                    <use xlink:href="#text-5"></use>
+                </g>
+            </g>
+            <g id="Right" transform="translate(425.500000, 16.000000)" fill="#FFFFFF" fill-opacity="1">
+                <g id="Open-Source">
+                    <use filter="url(#filter-8)" xlink:href="#text-7"></use>
+                    <use xlink:href="#text-7"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
