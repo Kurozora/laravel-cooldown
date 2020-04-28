@@ -1,4 +1,4 @@
-<p align="center"><img src=".github/icon.png" width="400"></p>
+<p align="center"><img src=".github/icon.png" width="150"></p>
 
 <p align="center">
 <a href="https://packagist.org/packages/kurozora/laravel-cooldown"><img src="https://img.shields.io/packagist/v/kurozora/laravel-cooldown.svg?style=flat-square" alt="Latest version on packagist"></a>
