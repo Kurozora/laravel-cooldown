@@ -143,6 +143,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://musa11971.me"><img src="https://avatars1.githubusercontent.com/u/21341801?v=4" width="100px;" alt=""/><br /><sub><b>Musa</b></sub></a><br /><a href="https://github.com/Kurozora/laravel-cooldown/commits?author=musa11971" title="Code">💻</a> <a href="https://github.com/Kurozora/laravel-cooldown/commits?author=musa11971" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/katklian/"><img src="https://avatars0.githubusercontent.com/u/6556281?v=4" width="100px;" alt=""/><br /><sub><b>Kirito</b></sub></a><br /><a href="#ideas-kiritokatklian" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-kiritokatklian" title="Design">🎨</a></td>
   </tr>
 </table>
 
