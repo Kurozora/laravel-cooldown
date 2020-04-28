@@ -27,4 +27,15 @@ class Cooldown extends Model
     {
         return $this->morphTo();
     }
+
+    /**
+     * Scope a query to only include expired cooldowns.
+     *
+     * @param  \Illuminate\Database\Eloquent\Builder  $query
+     * @return \Illuminate\Database\Eloquent\Builder
+     */
+    public function scopeExpired($query)
+    {
+        return $query->where('expires_at', '<', now());
+    }
 }

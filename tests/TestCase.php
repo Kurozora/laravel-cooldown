@@ -46,5 +46,11 @@ class TestCase extends Orchestra
             'database' => ':memory:',
             'prefix' => '',
         ]);
+
+        // Configure cache
+        $app['config']->set('cache.default', 'testing');
+        $app['config']->set('cache.stores.testing', [
+            'driver' => 'array'
+        ]);
     }
 }
